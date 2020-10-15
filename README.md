@@ -1,6 +1,4 @@
-# BarSampler
-Barsamplers 
-
+# Bar Samplers
 The objective of this project is to write a collection of Python functions which will sample
 intraday data and prepare it for modeling an analysis. You should write a function which
 accomplishes each of the tasks listed below. Please make sure you write a separate function to
