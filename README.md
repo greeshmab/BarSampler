@@ -1,2 +1,0 @@
-# BarSampler
-Barsamplers 
