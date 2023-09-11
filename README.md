@@ -1,10 +1,6 @@
 # Bar Samplers
 The objective of this project is to write a collection of Python functions which will sample
-intraday data and prepare it for modeling an analysis. You should write a function which
-accomplishes each of the tasks listed below. Please make sure you write a separate function to
-accomplish each task. Do not create one function which accomplishes all of the tasks at once.
-Should you wish to do this using classes and inheritance we leave that up to you, but it is not
-required.
+intraday data and prepare it for modeling an analysis. 
 1. Given a trade file prepare the format of the file for use with all of your other functions.
 2. Given a dataframe extract all ticks for a given symbol.
 3. Given a dataframe delete any types of trades the users deems unnecessary. You should
